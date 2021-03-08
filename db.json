@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "post 1",
+      "body": "yikes there was a typo",
+      "publishedAt": "3-1-2021"
+    },
+    {
+      "id": "2",
+      "title": "post two",
+      "body": "this is post two",
+      "publishedAt": "3-1-2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "JohnDoe@mail.com"
+    }
+  ]
+}
